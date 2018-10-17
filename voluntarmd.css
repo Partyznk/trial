@@ -1,0 +1,81 @@
+body 	{
+	margin:0px;
+	padding: 0px;
+}
+.header h1 {
+	color:	#2B4570;
+	font-size: 50px;
+	text-align: center;
+	font-family: Georgia, serif;
+	margin:0px;
+	padding-top:50.5px;
+}
+
+.header h3 {
+	color:#916E6E;
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	padding-bottom: 50px;
+	margin:0px;
+}
+
+.header {
+	height: 160px;
+}
+
+.logout{
+	float: right;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.logout a {
+	color:#3a4b9c;	
+	text-decoration: none;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	
+}
+.logout a:hover {
+	color:#5fb2ac;
+}
+
+.meniu {
+	width:100%;
+    display: table;
+    margin: 0 auto;
+}
+
+.meniu table{
+	width: 100%;
+	background-color:transparent;
+	color:white;
+	font-size: 18px;
+	font-family: "Segoe UI",Arial,sans-serif;
+}
+
+.meniu a {
+	color:white;
+	text-decoration: none;
+	background-color:#8E5C5C;
+}
+.meniu a:hover {
+	color:green;
+	background-color: pink;
+}
+.meniu td {
+	padding: 8px 0;
+} 
+.search {
+	width: calc(50% - 1px);
+	float: left;
+	position: absolute;
+	text-align: center;
+	border-right: 1px white solid;
+}
+
+.profile {
+	width:50%;
+	float: right;
+	text-align: center;
+	
+}
