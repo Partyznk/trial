@@ -42,14 +42,13 @@ body 	{
 }
 
 .meniu div{
-	width:50%;
 	background-color: #8E5C5C;
 	font-size: 18px;
-	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .meniu div:hover{
 	color:white;
-	background-color:#7c5151;
+	background-color:#7c5151
 }
 
 .meniu a {
