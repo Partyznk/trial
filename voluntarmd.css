@@ -42,7 +42,7 @@ body 	{
 }
 
 .meniu div{
-	width:50%;
+
 	background-color: #8E5C5C;
 	font-size: 18px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
@@ -69,6 +69,7 @@ body 	{
 	border-right: 1px white solid;
 	color: white;
 	padding: 4px 0px;
+	height:25px;
 }
 
 .profile {
@@ -78,6 +79,7 @@ body 	{
 	position: relative;
 	color: white;
 	padding: 4px 0px;
+	height:25px;
 }
 
 .organ {
