@@ -42,14 +42,13 @@ body 	{
 }
 
 .meniu div{
-
 	background-color: #8E5C5C;
 	font-size: 18px;
-	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .meniu div:hover{
 	color:white;
-	background-color:#7c5151;
+	background-color:#7c5151
 }
 
 .meniu a {
@@ -95,6 +94,7 @@ body 	{
 	padding: 4px;
 	border-radius: 10px;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
 }
 
 .prof {
@@ -111,17 +111,16 @@ body 	{
 	background-color: #ffccba;
 	margin-top: 25px;
 	margin-bottom:25px;
-	display: inline-block;
+	display: inline-block;	
+	background-color: #ffccba;
+	margin: 20px 10px;
 	padding: 4px;
 	border-radius: 10px;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
-}
-
-.organ h2{
 	text-align: center;
 }
 
-.organ img{
+img{
 	display: block;
     margin-left: auto;
     margin-right: auto;
@@ -138,4 +137,14 @@ input[type=text] {
 }
 .checked {
     color: rgb(255, 80, 80);
+}
+.prof {
+	height: 400px;
+	width: 300px;
+	background-color: #b6d2f7;
+	margin: 20px;
+	padding: 4px;
+	border-radius: 10px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
 }
