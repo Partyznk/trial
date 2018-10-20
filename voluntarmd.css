@@ -81,19 +81,16 @@ body 	{
 
 .organ {
 	height: 400px;
-	width: 300px;
+	
 	background-color: #ffccba;
-	margin: 20px;
+	margin: 20px 10px;
 	padding: 4px;
 	border-radius: 10px;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
-}
-
-.organ h2{
 	text-align: center;
 }
 
-.organ img{
+img{
 	display: block;
     margin-left: auto;
     margin-right: auto;
@@ -110,4 +107,14 @@ input[type=text] {
 }
 .checked {
     color: rgb(255, 80, 80);
+}
+.prof {
+	height: 400px;
+	width: 300px;
+	background-color: #b6d2f7;
+	margin: 20px;
+	padding: 4px;
+	border-radius: 10px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	text-align: center;
 }
